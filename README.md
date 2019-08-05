@@ -4,11 +4,13 @@ Implementation of basic U-Net in Keras, along with an implementation of a U-Net 
 ## Inception Modules ##
 
 ### Regular Inception Module ###
-Architecture derived from https://arxiv.org/abs/1512.00567.
+Architecture derived from https://arxiv.org/abs/1512.00567 \s\s
+
 ![alt text](https://github.com/danielenricocahall/Keras-UNet/blob/master/Figures/inceptionmodule.png)
 
 ### Dilated Inception Module ###
-Architecture derived from https://arxiv.org/abs/1707.07128.
+Architecture derived from https://arxiv.org/abs/1707.07128 \s\s
+
 ![alt text](https://github.com/danielenricocahall/Keras-UNet/blob/master/Figures/dilatedinceptionmodule.png)
 
 
